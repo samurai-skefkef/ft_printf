@@ -19,3 +19,8 @@ This static library is what you'll use when compiling your program:
 cc main.c libftprintf.a
 ```
 !!! But make sure you included the "ft_printf.h" header in your main.c code. !!!
+
+## Ressources
+
+* Youtube
+* https://www.geeksforgeeks.org/c/variadic-functions-in-c/
