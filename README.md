@@ -10,3 +10,12 @@ To compile the library go into the repository where the files are in, run:
 ```
 make
 ```
+You'll notice this created a bunch of "files", specifically:
+```
+libftprintf.a
+```
+This static library is what you'll use when compiling your program:
+```
+cc main.c libftprintf.a
+```
+!!! But make sure you included the "ft_printf.h" header in your main.c code. !!!
