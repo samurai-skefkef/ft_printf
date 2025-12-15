@@ -7,6 +7,6 @@ The ft_printf project is a reimplementation of the standard C library function p
 ## Instructions
 
 To compile the library go into the repository where the files are in, run:
-'''
+```
 make
-'''
+```
