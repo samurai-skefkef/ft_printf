@@ -25,6 +25,6 @@ cc main.c libftprintf.a
 * Youtube
 * Geeksforgeeks: https://www.geeksforgeeks.org/c/variadic-functions-in-c/
 
-**Chatgpt was Used for debugging and defining the perfect data type to use for pointers inside the function responsible for printing a pointer's addresse "ft_putpoint.c", also for debugging for the function responsible for printing in hexadecimal form "ft_putnbr_fd_hex.c"**
+**Chatgpt was Used for debugging and defining the perfect data type to use for pointers inside the function responsible for printing a pointer "ft_putpoint.c", also for debugging for the function responsible for printing in hexadecimal form "ft_putnbr_fd_hex.c"**
   
 ## Algorithm and Data Structure Choices
