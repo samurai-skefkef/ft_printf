@@ -2,6 +2,11 @@
 # ft_printf
 ## Description
 
-The ft_printf project is a reimplementation of the standard C library function printf. The goal of this project is to deepen the understanding of variadic functions, memory handling, and formatted output in C.
+The ft_printf project is a reimplementation of the standard C library function printf. The goal of this project is to mimic the behavior of printf(), and understand the different type conversions (parsing).
 
-This custom implementation reproduces the behavior of printf for a defined set of format specifiers, while respecting strict coding standards and limitations imposed by the 42 curriculum.
+## Instructions
+
+To compile the library go into the repository where the files are in, run:
+'''
+make
+'''
